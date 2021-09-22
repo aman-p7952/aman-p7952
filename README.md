@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aman-p7952
-- 👀 I’m interested in computer vision and robotics
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on computer vision
-- 📫 How to reach me amanp7952@gmail.com
+- 👋 Hi, I’m @aman-p7952.
+- 👀 I’m interested in computer vision and robotics.
+- 🌱 I’m currently learning ROS.
+- 💞️ I’m looking to collaborate on computer vision.
+- 📫 How to reach me amanp7952@gmail.com.
 
 
 <!---
